@@ -7,3 +7,4 @@ An almost empty repository for the OpenScienceWorkshop.
     * https://help.github.com/articles/generating-ssh-keys
 - ipython
 branch testing
+3. conflict test
