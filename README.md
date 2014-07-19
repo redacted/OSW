@@ -6,3 +6,4 @@ An almost empty repository for the OpenScienceWorkshop.
 - RSA key pairs
     * https://help.github.com/articles/generating-ssh-keys
 - ipython
+branch testing
